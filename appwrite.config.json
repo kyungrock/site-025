@@ -1,0 +1,21 @@
+{
+    "projectId": "site-025",
+    "endpoint": "https://fra.cloud.appwrite.io/v1",
+    "sites": [
+        {
+            "$id": "site-025-cat-massage",
+            "name": "고양이",
+            "logging": true,
+            "framework": "other",
+            "timeout": 30,
+            "installCommand": "",
+            "buildCommand": "",
+            "outputDirectory": "./",
+            "specification": "s-1vcpu-512mb",
+            "buildRuntime": "node-22",
+            "adapter": "static",
+            "fallbackFile": "index.html",
+            "path": "."
+        }
+    ]
+}

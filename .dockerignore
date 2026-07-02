@@ -1,0 +1,9 @@
+.git
+.github
+node_modules
+scripts
+appwrite.config.json
+deploy.ps1
+deploy-containers.ps1
+blog-draft.json
+*.md

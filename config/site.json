@@ -1,0 +1,20 @@
+{
+  "slug": "site-025",
+  "site_title": "고양이",
+  "site_name": "고양이",
+  "tagline": "이완 · 고양이 마사지·웰니스 정보 허브",
+  "topic": "고양이 마사지",
+  "content_focus": "이완",
+  "blog_category": "가족케어형",
+  "host_name": "Back4app Containers",
+  "host_url": "https://www.back4app.com",
+  "host_category": "코드배포_PaaS",
+  "host_country": "글로벌",
+  "deploy_url": "https://site-025.back4app.io",
+  "domain": "https://site-025.back4app.io",
+  "keywords": "고양이마사지,마사지,힐링,웰니스,셀프케어",
+  "menu": ["홈", "가이드", "블로그", "팁", "FAQ", "글쓰기"],
+  "tone": "친근·실용·정보성",
+  "target_reader": "마사지·웰니스 관심 20-50대",
+  "backlink_angle": "고양이 마사지 관련 정보 허브"
+}
