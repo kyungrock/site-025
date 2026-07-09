@@ -1,6 +1,6 @@
 /** Back4app 배포 URL (로컬·다른 호스트는 자동 보정) */
 window.SITE_CONFIG = {
-  baseUrl: "https://site-025.back4app.io",
+  baseUrl: "https://site025-qjhniwbk.b4a.run",
   siteName: "고양이",
   slug: "site-025",
   defaultDescription:

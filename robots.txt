@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://site-025.back4app.io/sitemap.xml
+Sitemap: https://site025-qjhniwbk.b4a.run/sitemap.xml
